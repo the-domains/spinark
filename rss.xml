@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[spinark telecom & software]]></title>
         <description><![CDATA[spinark telecom & software]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/spinark/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 14:42:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 22 Feb 2016 14:44:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/spinark/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab49d2e8-87ee-4d17-977d-6f06242a5e82.png">]]></description>
-            <link>undefined8a3a27b6-c4be-44c6-a402-9d1b5b946e96/index.html</link>
+            <link>https://thegrid.ai/spinark/8a3a27b6-c4be-44c6-a402-9d1b5b946e96/index.html</link>
             <guid isPermaLink="false">8a3a27b6-c4be-44c6-a402-9d1b5b946e96</guid>
-            <pubDate>Mon, 22 Feb 2016 14:42:39 GMT</pubDate>
+            <pubDate>Mon, 22 Feb 2016 14:43:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
