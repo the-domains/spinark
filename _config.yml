@@ -1,0 +1,28 @@
+name: Spinark
+favicon: null
+layout_spectrum: 0.24777615745551884
+typography_spectrum: 0.5775287260767072
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.9942543846555054
+  lightness: 0.04442531545646489
+  saturation: 0.9334656388964504
+  rhythmicContrast: 0.061563525116071105
+purpose: []
