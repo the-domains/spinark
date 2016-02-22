@@ -2,26 +2,25 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-22T14:32:36.894Z'
-dateModified: '2016-02-22T14:31:38.624Z'
+datePublished: '2016-02-22T14:41:23.789Z'
+dateModified: '2016-02-22T14:41:16.474Z'
 title: Customer support
 author: []
-sourcePath: _posts/2016-02-22-customer-support.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+sourcePath: _posts/2016-02-22-customer-support.md
+published: true
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2ba4dd0-72a1-4d4d-ac49-effc698e446e.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e8f5991-06dc-446d-b52e-11e1602f1435.png)
 
-Our support team is dedicated to helping you info@spinark.com
+Customer support
