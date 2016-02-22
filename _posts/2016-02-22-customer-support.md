@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-22T12:42:08.925Z'
-dateModified: '2016-02-22T12:37:52.503Z'
+datePublished: '2016-02-22T13:26:41.897Z'
+dateModified: '2016-02-22T13:10:30.489Z'
 title: Customer support
 author: []
 sourcePath: _posts/2016-02-22-customer-support.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: customer-support/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2ba4dd0-72a1-4d4d-ac49-effc698e446e.png)
