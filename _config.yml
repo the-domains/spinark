@@ -2,6 +2,7 @@ name: Spinark
 favicon: null
 layout_spectrum: 0.24777615745551884
 typography_spectrum: 0.5775287260767072
+title: spinark
 cta:
   domain: null
   bucket: null
