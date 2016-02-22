@@ -2,15 +2,23 @@
     <channel>
         <title><![CDATA[spinark]]></title>
         <description><![CDATA[spinark]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/spinark/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 12:42:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 22 Feb 2016 12:42:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/spinark/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tailor made software]]></title>
+            <description><![CDATA[<article><h1>Tailor made software</h1><p>Manage and monitor your company network with our web and mobile interfaces build for your needs
+</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a65915c9fd8d44c2c07f33b98890b65c34ddff38.png"></article>]]></description>
+            <link>https://thegrid.ai/spinark/tailor-made-software/index.html</link>
+            <guid isPermaLink="false">ec69a722-2da1-42e6-a561-cd2797517148</guid>
+            <pubDate>Mon, 22 Feb 2016 12:42:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Customer support]]></title>
             <description><![CDATA[<article><h1>Customer support</h1><p>Our support team is dedicated to helping you
 </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/31719ec967911be662f703dde2f078d42c698fbc.png"></article>]]></description>
-            <link>undefinedcustomer-support/index.html</link>
+            <link>https://thegrid.ai/spinark/customer-support/index.html</link>
             <guid isPermaLink="false">0d21aeff-60b9-433a-9bc8-e730d578168d</guid>
             <pubDate>Mon, 22 Feb 2016 12:42:08 GMT</pubDate>
         </item>
