@@ -1,6 +1,6 @@
 name: Spinark
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.26459
 typography_spectrum: 0.51459
 title: spinark
 cta:
@@ -23,7 +23,7 @@ color:
     - '#b6b6b6'
     - '#929292'
   brandStrength: 0.9942543846555054
-  lightness: 0.04442531545646489
+  lightness: 0.6875
   saturation: 0.9334656388964504
   rhythmicContrast: 0.061563525116071105
 purpose: []
