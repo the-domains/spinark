@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-22T13:26:41.897Z'
-dateModified: '2016-02-22T13:10:30.489Z'
+datePublished: '2016-02-22T14:26:53.749Z'
+dateModified: '2016-02-22T14:20:46.931Z'
 title: Customer support
 author: []
 sourcePath: _posts/2016-02-22-customer-support.md
@@ -25,3 +25,5 @@ _type: Blurb
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2ba4dd0-72a1-4d4d-ac49-effc698e446e.png)
 
 Our support team is dedicated to helping you
+
+info@spinark.com
