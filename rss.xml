@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[spinark telecom & software]]></title>
+        <description><![CDATA[spinark telecom & software]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 23 Feb 2016 16:05:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About us]]></title>
+            <description><![CDATA[<article><h1>About us</h1><p>We are not just a telecom company, we are provide our clients with the technology consultancy and software solutions to let them focus on their core business.</p></article>]]></description>
+            <link>undefinedabout-us/index.html</link>
+            <guid isPermaLink="false">a1c96b2e-7d02-4fe3-9e40-83cdc7ea2bbe</guid>
+            <pubDate>Tue, 23 Feb 2016 16:04:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
